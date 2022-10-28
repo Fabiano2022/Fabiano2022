@@ -13,7 +13,7 @@ Meu objetivo é lograr êxito na transição de carreira e conseguir minha prime
 <div align="center">
   <a href="https://github.com/Fabiano2022">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano2022&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
   
   <div style="display: inline_block"><br>
